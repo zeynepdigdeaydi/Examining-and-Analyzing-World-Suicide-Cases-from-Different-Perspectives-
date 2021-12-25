@@ -29,3 +29,42 @@ Do men commit suicide more than women?
 Suicide increases with age
 Suicide is less in countries with high GDP?
 Does the generation gap affect suicide?
+.
+.
+.
+.
+.
+.
+.
+.
+
+  Results and Discussion 
+  
+  First, it asks what causes suicides globally, which is our problem, and who affects them.
+The scope of my project has covered many countries over the last thirty years. I worked with the Kaggle called 'Suicide Rates Overview 1985 - 2016' dataset, as the results of my project were to gather information about what causes suicides around the world.
+Data are organized by country, male or female, and age, generation and continents, and the number of suicides per year.
+I analyzed various analytical elements to see correlations between age, gender, year and GDP to get the most unbiased analysis possible.
+
+
+  The distribution of suicide rates among age ranges shows us that the general prejudice about suicide is most prevalent in the younger group. The distribution says that neither teenagers nor young adults are in the most common age range for suicide rates. Mid-adults showed the highest suicide rate, with children and youth was even more than the sum of their rates.
+
+  Why was the middle adult population at such a high risk of suicide between 1985 and 2016?
+Wars, scientific development, technology, industry, social changes, economic crises and/or many possible situations in our environment can affect our actions towards ourselves more.
+
+It shows that the high variability of suicide rates in men over the years has increased, and sometimes even doubled, compared to women. The data show that middle-aged adults aged 35 to 74 have the highest number of suicides. Seniors and adolescents are about half as old as middle-aged adults.
+Suicide is one of the leading causes of death among adults worldwide.
+  The data show worrying differences in suicide for the different sexes. It is clear that men are more suicidal than women.
+
+While rates did not differ much from the mid to late 1980s, after 1990 there is a huge difference in male suicide, but not so much in female suicide.
+
+The data also allow us to see that population size is a great indicator and one of the reasons for suicide rates in general.
+
+ People living in countries with larger populations have a higher rate of attempting and committing suicide than countries with smaller populations.
+
+
+In the data, annual GDP also appears to be a key point in suicide rates. In addition, a higher GDP seems to be associated with higher suicide rates.
+
+
+We might think that a person killed himself because of financial problems, puberty problems or gender and many guesses. But the reality doesn't even seem close to these predictions.
+People commit suicide and we can't generalize that. We shouldn't try to mold it. . Suicide is not like other harmful or negative actions because ending one's life is more than statistical data.
+
